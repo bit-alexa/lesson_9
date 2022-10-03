@@ -21,5 +21,5 @@ def test(file_inp):
 
 
 if __name__ == '__main__':
-    file_input = input('Please, input the path to file [example file = test3]: ')
+    file_input = input('Please, input the path to file [for example file = test3]: ')
     test(file_input)
